@@ -1,0 +1,679 @@
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\build.props
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\adb.props
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res.flag
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\4D5D5BD4B5E6B731.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\8191EA8F8BE69079.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\918057AADCE6E499.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\42A8D90E5DC01BE2.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\B151CDE9B1814DF0.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\EAF19DDF1BA788FB.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\05B4963B28A3430F.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\C978276016A36447.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\8D3C48A903A3797F.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\9D2DF58C54A30D9F.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\0A4114E1C085EFDC.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\4E057B28D585F2E4.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\3D3F4935554F386B.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\4D5D5BD4B5E6B731.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\8191EA8F8BE69079.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\918057AADCE6E499.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\42A8D90E5DC01BE2.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\B151CDE9B1814DF0.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\EAF19DDF1BA788FB.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\05B4963B28A3430F.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\C978276016A36447.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\8D3C48A903A3797F.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\9D2DF58C54A30D9F.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\0A4114E1C085EFDC.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\4E057B28D585F2E4.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\3D3F4935554F386B.flata
+D:\projects C#\CourseWork\Proba\Proba\bin\Debug\Proba.dll
+D:\projects C#\CourseWork\Proba\Proba\bin\Debug\Proba.pdb
+D:\projects C#\CourseWork\Proba\Proba\bin\Debug\com.companyname.proba.apk
+D:\projects C#\CourseWork\Proba\Proba\bin\Debug\com.companyname.proba.aab
+D:\projects C#\CourseWork\Proba\Proba\bin\Debug\com.companyname.proba-Signed.aab
+D:\projects C#\CourseWork\Proba\Proba\bin\Debug\com.companyname.proba-Signed.apk
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\flata\compiled.flata
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\R.txt
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\R.cs.flag
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\Proba.csproj.CoreCompileInputs.cache
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\Proba.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\Proba.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\bin\com.companyname.proba.apk
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\bin\base.zip
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\bin\com.companyname.proba.aab
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\bin\com.companyname.proba.apks
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\layout\activity_main.xml
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\values\colors.xml
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\values\ic_launcher_background.xml
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\values\strings.xml
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\values\styles.xml
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\res\drawable\archer.png
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\uploadflags.txt
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\resolvedassemblies.hash
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Java.Interop.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Mono.Android.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Mono.Android.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Mono.Security.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Mono.Security.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\mscorlib.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\mscorlib.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Proba.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Proba.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Core.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Core.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Drawing.Common.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Net.Http.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Net.Http.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Numerics.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Numerics.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Runtime.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Xml.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\System.Xml.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.GooglePlayServices.Base.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.GooglePlayServices.Basement.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.GooglePlayServices.Maps.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\Xamarin.GooglePlayServices.Tasks.dll
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.jm.x86.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.jm.x86_64.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.mj.x86.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.mj.x86_64.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\AndroidManifest.xml
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\__environment__.txt
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\assets\machine.config
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\bin\mono.android.jar
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\static.flag
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\buildid.txt
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\environment.arm64-v8a.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\environment.armeabi-v7a.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\environment.x86.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\environment.x86_64.s
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\compat\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\customtabs\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\design\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\mediacompat\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\transition\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\com\google\android\gms\base\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\com\google\android\gms\common\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\com\google\android\gms\maps\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc6434af9c19aa01b597\GoogleApiClientConnectionCallbacksImpl.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc6434af9c19aa01b597\GoogleApiClientOnConnectionFailedListenerImpl.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc6450e07d0e82e86181\AwaitableResultCallback_1.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc6450e07d0e82e86181\ResultCallback_1.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc6495d4f5d63cc5c882\AwaitableTaskCompleteListener_1.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\crc64eeff1b3d54fe8840\MainActivity.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\common\api\GoogleApiClient_OnConnectionFailedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\common\api\internal\BackgroundDetector_BackgroundStateChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\common\api\internal\SignInConnectionListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\common\api\PendingResult_StatusListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\common\images\ImageManager_OnImageLoadedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\dynamic\OnDelegateCreatedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraIdleListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveCanceledListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveStartedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCircleClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnGroundOverlayClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnIndoorStateChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowCloseListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowLongClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapLongClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerDragListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationButtonClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPoiClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolygonClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolylineClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\LocationSource_OnLocationChangedListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaCameraChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaChangeListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaLongClickListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\security\ProviderInstaller_ProviderInstallListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\tasks\OnCanceledListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\tasks\OnCompleteListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\tasks\OnFailureListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\tasks\OnSuccessListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\tasks\OnTokenCanceledListenerImplementor.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\bin\packaged_resources
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\src\com\companyname\proba\R.java
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.jm.x86.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.mj.x86.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.jm.x86_64.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\typemap.mj.x86_64.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\environment.arm64-v8a.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\environment.armeabi-v7a.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\environment.x86.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\environment.x86_64.o
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\android\bin\classes.dex
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\stamp\_CompileToDalvik.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\stamp\_ConvertCustomView.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\projects C#\CourseWork\Proba\Proba\obj\Debug\90\Proba.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\8BF2D5F142DECBBB.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\7B53E1EACEFCD87C.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\build.props
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\adb.props
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\bin\Debug\Proba.dll
+C:\Users\Nikita\Desktop\Proba\Proba\bin\Debug\Proba.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\bin\Debug\com.companyname.proba.permission.MAPS_RECEIVE.apk
+C:\Users\Nikita\Desktop\Proba\Proba\bin\Debug\com.companyname.proba.permission.MAPS_RECEIVE.aab
+C:\Users\Nikita\Desktop\Proba\Proba\bin\Debug\com.companyname.proba.permission.MAPS_RECEIVE-Signed.aab
+C:\Users\Nikita\Desktop\Proba\Proba\bin\Debug\com.companyname.proba.permission.MAPS_RECEIVE-Signed.apk
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res.flag
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\33BA2C0553B92C42.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\77FE43CC46B9317A.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\2C5E13FAEC9FF471.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\8BF2D5F142DECBBB.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\8407572BAAF86768.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\E3CA825DB2FC96EC.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\7B53E1EACEFCD87C.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\3F178E23DBFCC544.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\F3DB3F78E5FCE20C.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\178DEC08F110CAC0.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\53C983C1E410D7F8.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\9F05329ADA10F0B0.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\DB415D53CF10ED88.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\33BA2C0553B92C42.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\77FE43CC46B9317A.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\2C5E13FAEC9FF471.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\8407572BAAF86768.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\E3CA825DB2FC96EC.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\3F178E23DBFCC544.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\F3DB3F78E5FCE20C.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\178DEC08F110CAC0.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\53C983C1E410D7F8.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\9F05329ADA10F0B0.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\DB415D53CF10ED88.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\flata\compiled.flata
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\R.cs.flag
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\Proba.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\Proba.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\Proba.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\bin\com.companyname.proba.permission.MAPS_RECEIVE.apk
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\bin\base.zip
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\bin\com.companyname.proba.permission.MAPS_RECEIVE.aab
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\bin\com.companyname.proba.permission.MAPS_RECEIVE.apks
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\raw\styledark.json
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\raw\stylelight.json
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\raw\data_base.csv
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\layout\activity_main.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\values\colors.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\values\ic_launcher_background.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\values\strings.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\values\styles.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\layout\simple_dropdown.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\layout\infowindow.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\styleinfowindow.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\position_map.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\browser.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\home.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\phone.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\mark_map.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\search_map.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\mark_map_blue.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\time.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\menu_settings.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\icon_app.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\R.txt
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\uploadflags.txt
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Proba.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Proba.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Square.OkHttp3.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Square.OkIO.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Square.Retrofit2.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\__environment__.txt
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\assets\machine.config
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\static.flag
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\buildid.txt
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\environment.x86.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\com\google\android\gms\base\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\com\google\android\gms\common\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\com\google\android\gms\maps\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc6434af9c19aa01b597\GoogleApiClientConnectionCallbacksImpl.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc6434af9c19aa01b597\GoogleApiClientOnConnectionFailedListenerImpl.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc6450e07d0e82e86181\AwaitableResultCallback_1.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc6450e07d0e82e86181\ResultCallback_1.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc6495d4f5d63cc5c882\AwaitableTaskCompleteListener_1.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64e9db98a0d7058662\CallExtensions_ActionCallback.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64eeff1b3d54fe8840\MainActivity.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64eeff1b3d54fe8840\MyInfoWindowAdapter.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64eeff1b3d54fe8840\ShowHeadPiece.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\crc64eeff1b3d54fe8840\TimePickerFragment.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\common\api\GoogleApiClient_OnConnectionFailedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\common\api\internal\BackgroundDetector_BackgroundStateChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\common\api\internal\SignInConnectionListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\common\api\PendingResult_StatusListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\common\images\ImageManager_OnImageLoadedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\dynamic\OnDelegateCreatedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraIdleListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveCanceledListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveStartedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCircleClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnGroundOverlayClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnIndoorStateChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowCloseListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowLongClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapLongClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerDragListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationButtonClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPoiClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolygonClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolylineClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\LocationSource_OnLocationChangedListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaCameraChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaChangeListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaLongClickListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\security\ProviderInstaller_ProviderInstallListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\tasks\OnCanceledListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\tasks\OnCompleteListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\tasks\OnFailureListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\tasks\OnSuccessListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\com\google\android\gms\tasks\OnTokenCanceledListenerImplementor.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\okhttp3\OkHttpClient$Builder_AuthenticatorImpl.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\okhttp3\OkHttpClient$Builder_DnsImpl.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\okhttp3\OkHttpClient$Builder_HostnameVerifierImpl.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\okhttp3\OkHttpClient$Builder_InterceptorImpl.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\src\com\companyname\proba\permission\maps_receive\R.java
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.jm.x86.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.mj.x86.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.jm.x86_64.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\typemap.mj.x86_64.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\environment.x86.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\android\bin\classes.dex
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\open_icon.xml
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\drawable\icon_head.png
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\Proba.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Proba\Proba\obj\Debug\90\res\layout\registration.xml

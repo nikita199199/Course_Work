@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">Workout</string>
+  <string name="search_hint">"Нажмите для ввода адреса</string>
+  <string name="button_registration">"Нажмите для регистрации</string>
+  <string name="user_input">"Введите своё имя</string>
+  <string name="time_input">"Время для тренировки</string>
+  <string name="fullness_area">"Заполненность площадки:</string>
+  <string name="dialog_registration">"Зарегистрироваться</string>
+  <string name="registration_yes">"Вы зарегистрированы!</string>
+  <string name="registration_time">" зарегистрировался на: </string>
+  <string name="registration_mistake">"Вы не зарегистрированы, введённые данные неккоректны !</string>
+  <string name="registration_cancel">"Отменить</string>
+  <string name="registration_canceled">"Регистрация отменена !</string>
+  <string name="action_settings">Settings</string>
+  <string name="text01">HelloWorld</string>
+
+</resources>

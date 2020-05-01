@@ -1,0 +1,3 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"><solid android:color="#99000000" /><!-- <stroke android:width="2dp"
+                android:color="#FFFFFF"
+                />--><!-- Отступы внутренних элементов от компановщика --><padding android:left="3dp" android:top="3dp" android:right="3dp" android:bottom="3dp" /><corners android:bottomRightRadius="5dp" android:bottomLeftRadius="5dp" android:topLeftRadius="5dp" android:topRightRadius="5dp" /></shape>
