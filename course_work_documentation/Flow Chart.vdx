@@ -1,0 +1,1248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument xmlns:vx="http://schemas.microsoft.com/visio/2006/extension" xml:space="preserve" buildnum="6676" version="12.0" xmlns="http://schemas.microsoft.com/visio/2003/core">
+  <DocumentSettings>
+    <GlueSettings>9</GlueSettings>
+    <SnapSettings>295</SnapSettings>
+    <SnapExtensions>34</SnapExtensions>
+    <DynamicGridEnabled>1</DynamicGridEnabled>
+    <ProtectStyles>0</ProtectStyles>
+    <ProtectShapes>0</ProtectShapes>
+    <ProtectMasters>0</ProtectMasters>
+    <ProtectBkgnds>0</ProtectBkgnds>
+  </DocumentSettings>
+  <FaceNames>
+    <FaceName CharSets="1614742015 -65536" Flags="357" ID="1" Name="Arial Unicode MS" Panos="2 11 6 4 2 2 2 2 2 4" UnicodeRanges="-1 -369098753 63 0" />
+    <FaceName CharSets="-2147483648 0" Flags="261" ID="2" Name="Symbol" Panos="5 5 1 2 1 7 6 2 5 7" UnicodeRanges="0 0 0 0" />
+    <FaceName CharSets="-2147483648 0" Flags="261" ID="3" Name="Wingdings" Panos="5 0 0 0 0 0 0 0 0 0" UnicodeRanges="0 0 0 0" />
+    <FaceName CharSets="1073742335 -65536" Flags="325" ID="4" Name="Arial" Panos="2 11 6 4 2 2 2 2 2 4" UnicodeRanges="-536859905 -1073711037 9 0" />
+    <FaceName CharSets="262145 0" Flags="421" ID="5" Name="SimSun" Panos="2 1 6 0 3 1 1 1 1 1" UnicodeRanges="3 680460288 6 0" />
+    <FaceName CharSets="1048577 0" Flags="421" ID="6" Name="PMingLiU" Panos="2 2 5 0 0 0 0 0 0 0" UnicodeRanges="-1610611969 684719354 22 0" />
+    <FaceName CharSets="1073873055 -539557888" Flags="421" ID="7" Name="MS PGothic" Panos="2 11 6 0 7 2 5 8 2 4" UnicodeRanges="-536870145 1791491579 134217746 0" />
+    <FaceName CharSets="1074266271 -539557888" Flags="421" ID="8" Name="Dotum" Panos="2 11 6 0 0 1 1 1 1 1" UnicodeRanges="-1342176593 1775729915 48 0" />
+    <FaceName CharSets="536871071 0" Flags="325" ID="9" Name="Sylfaen" Panos="1 10 5 2 5 3 6 3 3 3" UnicodeRanges="67110535 0 0 0" />
+    <FaceName CharSets="1 0" Flags="325" ID="10" Name="Estrangelo Edessa" Panos="3 8 6 0 0 0 0 0 0 0" UnicodeRanges="-2147475389 0 128 0" />
+    <FaceName CharSets="1 0" Flags="325" ID="11" Name="Vrinda" Panos="2 11 5 2 4 2 4 2 2 3" UnicodeRanges="65539 0 0 0" />
+    <FaceName CharSets="1 0" Flags="325" ID="12" Name="Shruti" Panos="2 11 5 2 4 2 4 2 2 3" UnicodeRanges="262147 0 0 0" />
+    <FaceName CharSets="1 0" Flags="325" ID="13" Name="Mangal" Panos="2 4 5 3 5 2 3 3 2 2" UnicodeRanges="32771 0 0 0" />
+    <FaceName CharSets="1 0" Flags="325" ID="14" Name="Tunga" Panos="2 11 5 2 4 2 4 2 2 3" UnicodeRanges="4194307 0 0 0" />
+    <FaceName CharSets="536936959 539492352" Flags="327" ID="15" Name="Sendnya" Panos="2 11 6 4 2 2 2 2 2 4" UnicodeRanges="-520082689 -1073741822 8 0" />
+    <FaceName CharSets="1 0" Flags="325" ID="16" Name="Raavi" Panos="2 11 5 2 4 2 4 2 2 3" UnicodeRanges="131075 0 0 0" />
+    <FaceName CharSets="536936959 539492352" Flags="327" ID="17" Name="Dhenu" Panos="2 11 6 4 2 2 2 2 2 4" UnicodeRanges="-520082689 -1073741822 8 0" />
+    <FaceName CharSets="1 0" Flags="325" ID="18" Name="Latha" Panos="2 11 6 4 2 2 2 2 2 4" UnicodeRanges="1048579 0 0 0" />
+    <FaceName CharSets="1 0" Flags="325" ID="19" Name="Gautami" Panos="2 11 5 2 4 2 4 2 2 3" UnicodeRanges="2097155 0 0 0" />
+    <FaceName CharSets="65537 0" Flags="325" ID="20" Name="Cordia New" Panos="2 11 3 4 2 2 2 2 2 4" UnicodeRanges="-2130706429 0 0 0" />
+    <FaceName CharSets="536936959 539492352" Flags="327" ID="21" Name="MS Farsi" Panos="2 11 6 4 2 2 2 2 2 4" UnicodeRanges="-520082689 -1073741822 8 0" />
+    <FaceName CharSets="1074266271 -539557888" Flags="421" ID="22" Name="Gulim" Panos="2 11 6 0 0 1 1 1 1 1" UnicodeRanges="-1342176593 1775729915 48 0" />
+    <FaceName CharSets="1073742335 -65536" Flags="325" ID="23" Name="Times New Roman" Panos="2 2 6 3 5 4 5 2 3 4" UnicodeRanges="-536858881 -1073711037 9 0" />
+  </FaceNames>
+  <Masters />
+  <Pages>
+    <Page ID="0" NameU="Новая страница">
+      <PageSheet>
+        <PageProps>
+          <PageWidth Unit="MM">8.2677</PageWidth>
+          <PageHeight Unit="MM">11.6929</PageHeight>
+          <PageScale>0.0104</PageScale>
+          <DrawingScale>0.0104</DrawingScale>
+        </PageProps>
+        <PageLayout>
+          <ResizePage>0</ResizePage>
+          <EnableGrid>0</EnableGrid>
+          <DynamicsOff>0</DynamicsOff>
+          <PlaceStyle>1</PlaceStyle>
+          <RouteStyle>5</RouteStyle>
+          <PlaceDepth>1</PlaceDepth>
+          <PlowCode>0</PlowCode>
+        </PageLayout>
+        <Layer IX="0">
+          <Name>FlowChart</Name>
+          <Color>255</Color>
+          <Status>0</Status>
+          <Visible>1</Visible>
+          <Print>1</Print>
+          <Active>0</Active>
+          <Lock>0</Lock>
+          <Snap>1</Snap>
+          <Glue>1</Glue>
+          <NameUniv>FlowChart</NameUniv>
+          <ColorTrans>0</ColorTrans>
+        </Layer>
+        <Layer IX="1">
+          <Name>Connector</Name>
+          <Color>255</Color>
+          <Status>0</Status>
+          <Visible>1</Visible>
+          <Print>1</Print>
+          <Active>0</Active>
+          <Lock>0</Lock>
+          <Snap>1</Snap>
+          <Glue>1</Glue>
+          <NameUniv>Connector</NameUniv>
+          <ColorTrans>0</ColorTrans>
+        </Layer>
+      </PageSheet>
+      <Shapes>
+        <Shape ID="1" Type="Group" NameU="Ссылка на текущую страницу">
+          <XForm>
+            <PinX>-0.9375</PinX>
+            <PinY>6.5888</PinY>
+            <Width>0.625</Width>
+            <Height>0.625</Height>
+            <LocPinX F="Width*0.5">0.3125</LocPinX>
+            <LocPinY F="Height*0.5">0.3125</LocPinY>
+            <Angle>0</Angle>
+            <FlipX>0</FlipX>
+            <FlipY>0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <LayerMem>
+            <LayerMember>0</LayerMember>
+          </LayerMem>
+          <Shapes>
+            <Shape ID="2" Type="Shape">
+              <XForm>
+                <PinX F="Sheet.1!Width*0.5">0.3125</PinX>
+                <PinY F="Sheet.1!Height*0.5">0.3125</PinY>
+                <Width F="Sheet.1!Width*1.0">0.625</Width>
+                <Height F="Sheet.1!Height*1.0">0.625</Height>
+                <LocPinX F="Sheet.1!Width*0.5">0.3125</LocPinX>
+                <LocPinY F="Sheet.1!Height*0.5">0.3125</LocPinY>
+                <Angle>0</Angle>
+                <FlipX>0</FlipX>
+                <FlipY>0</FlipY>
+                <ResizeMode>0</ResizeMode>
+              </XForm>
+              <Geom IX="0">
+                <NoFill>0</NoFill>
+                <NoLine>0</NoLine>
+                <NoShow>0</NoShow>
+                <NoSnap>0</NoSnap>
+                <MoveTo IX="1">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*1">0.625</Y>
+                </MoveTo>
+                <NURBSTo IX="2">
+                  <X F="Width*0.1464">0.0915</X>
+                  <Y F="Height*0.8536">0.5335</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.3674, Height*1, 0, 1, Width*0.2402, Height*0.9473, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.2297, 0.625, 0, 1, 0.1501, 0.5921, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="3">
+                  <X F="Width*0">0</X>
+                  <Y F="Height*0.5">0.3125</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.0527, Height*0.7598, 0, 1, Width*0, Height*0.6326, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.0329, 0.4749, 0, 1, 0, 0.3953, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="4">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*0">0</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0, Height*0.2257, 0, 1, Width*0.2257, Height*0, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0, 0.1411, 0, 1, 0.1411, 0, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="5">
+                  <X F="Width*0.8536">0.5335</X>
+                  <Y F="Height*0.1464">0.0915</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.6326, Height*0, 0, 1, Width*0.7598, Height*0.0527, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.3953, 0, 0, 1, 0.4749, 0.0329, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="6">
+                  <X F="Width*1">0.625</X>
+                  <Y F="Height*0.5">0.3125</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.9473, Height*0.2402, 0, 1, Width*1, Height*0.3674, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.5921, 0.1501, 0, 1, 0.625, 0.2297, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="7">
+                  <X F="Width*0.8536">0.5335</X>
+                  <Y F="Height*0.8536">0.5335</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*1, Height*0.6326, 0, 1, Width*0.9473, Height*0.7598, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.625, 0.3953, 0, 1, 0.5921, 0.4749, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="8">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*1">0.625</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.7598, Height*0.9473, 0, 1, Width*0.6326, Height*1, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.4749, 0.5921, 0, 1, 0.3953, 0.625, 0, 1)</E>
+                </NURBSTo>
+                <LineTo IX="9">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*1">0.625</Y>
+                </LineTo>
+              </Geom>
+              <Fill>
+                <FillForegnd>#FFFFFF</FillForegnd>
+                <FillPattern>1</FillPattern>
+                <FillForegndTrans>0</FillForegndTrans>
+              </Fill>
+              <Line>
+                <LineWeight>0.0104</LineWeight>
+                <LineColor>#000000</LineColor>
+                <LineColorTrans>0</LineColorTrans>
+              </Line>
+              <Connection IX="0">
+                <X F="Width*0">0</X>
+                <Y F="Height*0.5">0.3125</Y>
+              </Connection>
+              <Connection IX="1">
+                <X F="Width*1">0.625</X>
+                <Y F="Height*0.5">0.3125</Y>
+              </Connection>
+              <Connection IX="2">
+                <X F="Width*0.5">0.3125</X>
+                <Y F="Height*1">0.625</Y>
+              </Connection>
+              <Connection IX="3">
+                <X F="Width*0.5">0.3125</X>
+                <Y F="Height*0">0</Y>
+              </Connection>
+            </Shape>
+            <Shape ID="3" Type="Shape" NameU="Text">
+              <XForm>
+                <PinX F="Sheet.1!Width*0.5">0.3125</PinX>
+                <PinY F="Sheet.1!Height*0.5">0.3125</PinY>
+                <Width>0.5417</Width>
+                <Height>0.5417</Height>
+                <LocPinX F="Width*0.5">0.2708</LocPinX>
+                <LocPinY F="Height*0.5">0.2708</LocPinY>
+                <Angle>0</Angle>
+                <FlipX>0</FlipX>
+                <FlipY>0</FlipY>
+                <ResizeMode>0</ResizeMode>
+              </XForm>
+              <TextBlock>
+                <VerticalAlign>1</VerticalAlign>
+              </TextBlock>
+              <Char IX="0">
+                <Font>4</Font>
+                <Color>#000000</Color>
+                <Style>0</Style>
+                <Case>0</Case>
+                <Pos>0</Pos>
+                <FontScale>1</FontScale>
+                <Size Unit="PT">0.1389</Size>
+                <DblUnderline>0</DblUnderline>
+                <Overline>0</Overline>
+                <Strikethru>0</Strikethru>
+                <Highlight>0</Highlight>
+                <DoubleStrikethrough>0</DoubleStrikethrough>
+                <RTLText>0</RTLText>
+                <UseVertical>0</UseVertical>
+                <Letterspace>0</Letterspace>
+                <ColorTrans>0</ColorTrans>
+                <AsianFont>0</AsianFont>
+                <ComplexScriptFont>0</ComplexScriptFont>
+                <LocalizeFont>0</LocalizeFont>
+                <ComplexScriptSize>-1</ComplexScriptSize>
+              </Char>
+              <Para IX="0">
+                <HorzAlign>1</HorzAlign>
+              </Para>
+              <Text><cp IX="0"/><pp IX="0"/>к</Text>
+            </Shape>
+          </Shapes>
+        </Shape>
+        <Shape ID="4" Type="Group" NameU="Ссылка на текущую страницу">
+          <XForm>
+            <PinX>1.7708</PinX>
+            <PinY>2.9429</PinY>
+            <Width>0.625</Width>
+            <Height>0.625</Height>
+            <LocPinX F="Width*0.5">0.3125</LocPinX>
+            <LocPinY F="Height*0.5">0.3125</LocPinY>
+            <Angle>0</Angle>
+            <FlipX>0</FlipX>
+            <FlipY>0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <LayerMem>
+            <LayerMember>0</LayerMember>
+          </LayerMem>
+          <Shapes>
+            <Shape ID="5" Type="Shape">
+              <XForm>
+                <PinX F="Sheet.4!Width*0.5">0.3125</PinX>
+                <PinY F="Sheet.4!Height*0.5">0.3125</PinY>
+                <Width F="Sheet.4!Width*1.0">0.625</Width>
+                <Height F="Sheet.4!Height*1.0">0.625</Height>
+                <LocPinX F="Sheet.4!Width*0.5">0.3125</LocPinX>
+                <LocPinY F="Sheet.4!Height*0.5">0.3125</LocPinY>
+                <Angle>0</Angle>
+                <FlipX>0</FlipX>
+                <FlipY>0</FlipY>
+                <ResizeMode>0</ResizeMode>
+              </XForm>
+              <Geom IX="0">
+                <NoFill>0</NoFill>
+                <NoLine>0</NoLine>
+                <NoShow>0</NoShow>
+                <NoSnap>0</NoSnap>
+                <MoveTo IX="10">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*1">0.625</Y>
+                </MoveTo>
+                <NURBSTo IX="11">
+                  <X F="Width*0.1464">0.0915</X>
+                  <Y F="Height*0.8536">0.5335</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.3674, Height*1, 0, 1, Width*0.2402, Height*0.9473, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.2297, 0.625, 0, 1, 0.1501, 0.5921, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="12">
+                  <X F="Width*0">0</X>
+                  <Y F="Height*0.5">0.3125</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.0527, Height*0.7598, 0, 1, Width*0, Height*0.6326, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.0329, 0.4749, 0, 1, 0, 0.3953, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="13">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*0">0</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0, Height*0.2257, 0, 1, Width*0.2257, Height*0, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0, 0.1411, 0, 1, 0.1411, 0, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="14">
+                  <X F="Width*0.8536">0.5335</X>
+                  <Y F="Height*0.1464">0.0915</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.6326, Height*0, 0, 1, Width*0.7598, Height*0.0527, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.3953, 0, 0, 1, 0.4749, 0.0329, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="15">
+                  <X F="Width*1">0.625</X>
+                  <Y F="Height*0.5">0.3125</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.9473, Height*0.2402, 0, 1, Width*1, Height*0.3674, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.5921, 0.1501, 0, 1, 0.625, 0.2297, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="16">
+                  <X F="Width*0.8536">0.5335</X>
+                  <Y F="Height*0.8536">0.5335</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*1, Height*0.6326, 0, 1, Width*0.9473, Height*0.7598, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.625, 0.3953, 0, 1, 0.5921, 0.4749, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="17">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*1">0.625</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.7598, Height*0.9473, 0, 1, Width*0.6326, Height*1, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.4749, 0.5921, 0, 1, 0.3953, 0.625, 0, 1)</E>
+                </NURBSTo>
+                <LineTo IX="18">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*1">0.625</Y>
+                </LineTo>
+              </Geom>
+              <Fill>
+                <FillForegnd>#FFFFFF</FillForegnd>
+                <FillPattern>1</FillPattern>
+                <FillForegndTrans>0</FillForegndTrans>
+              </Fill>
+              <Line>
+                <LineWeight>0.0104</LineWeight>
+                <LineColor>#000000</LineColor>
+                <LineColorTrans>0</LineColorTrans>
+              </Line>
+              <Connection IX="0">
+                <X F="Width*0">0</X>
+                <Y F="Height*0.5">0.3125</Y>
+              </Connection>
+              <Connection IX="1">
+                <X F="Width*1">0.625</X>
+                <Y F="Height*0.5">0.3125</Y>
+              </Connection>
+              <Connection IX="2">
+                <X F="Width*0.5">0.3125</X>
+                <Y F="Height*1">0.625</Y>
+              </Connection>
+              <Connection IX="3">
+                <X F="Width*0.5">0.3125</X>
+                <Y F="Height*0">0</Y>
+              </Connection>
+            </Shape>
+            <Shape ID="6" Type="Shape" NameU="Text">
+              <XForm>
+                <PinX F="Sheet.4!Width*0.5">0.3125</PinX>
+                <PinY F="Sheet.4!Height*0.5">0.3125</PinY>
+                <Width>0.5417</Width>
+                <Height>0.5417</Height>
+                <LocPinX F="Width*0.5">0.2708</LocPinX>
+                <LocPinY F="Height*0.5">0.2708</LocPinY>
+                <Angle>0</Angle>
+                <FlipX>0</FlipX>
+                <FlipY>0</FlipY>
+                <ResizeMode>0</ResizeMode>
+              </XForm>
+              <TextBlock>
+                <VerticalAlign>1</VerticalAlign>
+              </TextBlock>
+              <Char IX="0">
+                <Font>4</Font>
+                <Color>#000000</Color>
+                <Style>0</Style>
+                <Case>0</Case>
+                <Pos>0</Pos>
+                <FontScale>1</FontScale>
+                <Size Unit="PT">0.1389</Size>
+                <DblUnderline>0</DblUnderline>
+                <Overline>0</Overline>
+                <Strikethru>0</Strikethru>
+                <Highlight>0</Highlight>
+                <DoubleStrikethrough>0</DoubleStrikethrough>
+                <RTLText>0</RTLText>
+                <UseVertical>0</UseVertical>
+                <Letterspace>0</Letterspace>
+                <ColorTrans>0</ColorTrans>
+                <AsianFont>0</AsianFont>
+                <ComplexScriptFont>0</ComplexScriptFont>
+                <LocalizeFont>0</LocalizeFont>
+                <ComplexScriptSize>-1</ComplexScriptSize>
+              </Char>
+              <Para IX="0">
+                <HorzAlign>1</HorzAlign>
+              </Para>
+              <Text><cp IX="0"/><pp IX="0"/>н</Text>
+            </Shape>
+          </Shapes>
+        </Shape>
+        <Shape ID="7" Type="Group" NameU="Ссылка на текущую страницу">
+          <XForm>
+            <PinX>4.2708</PinX>
+            <PinY>6.5888</PinY>
+            <Width>0.625</Width>
+            <Height>0.625</Height>
+            <LocPinX F="Width*0.5">0.3125</LocPinX>
+            <LocPinY F="Height*0.5">0.3125</LocPinY>
+            <Angle>0</Angle>
+            <FlipX>0</FlipX>
+            <FlipY>0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <LayerMem>
+            <LayerMember>0</LayerMember>
+          </LayerMem>
+          <Shapes>
+            <Shape ID="8" Type="Shape">
+              <XForm>
+                <PinX F="Sheet.7!Width*0.5">0.3125</PinX>
+                <PinY F="Sheet.7!Height*0.5">0.3125</PinY>
+                <Width F="Sheet.7!Width*1.0">0.625</Width>
+                <Height F="Sheet.7!Height*1.0">0.625</Height>
+                <LocPinX F="Sheet.7!Width*0.5">0.3125</LocPinX>
+                <LocPinY F="Sheet.7!Height*0.5">0.3125</LocPinY>
+                <Angle>0</Angle>
+                <FlipX>0</FlipX>
+                <FlipY>0</FlipY>
+                <ResizeMode>0</ResizeMode>
+              </XForm>
+              <Geom IX="0">
+                <NoFill>0</NoFill>
+                <NoLine>0</NoLine>
+                <NoShow>0</NoShow>
+                <NoSnap>0</NoSnap>
+                <MoveTo IX="19">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*1">0.625</Y>
+                </MoveTo>
+                <NURBSTo IX="20">
+                  <X F="Width*0.1464">0.0915</X>
+                  <Y F="Height*0.8536">0.5335</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.3674, Height*1, 0, 1, Width*0.2402, Height*0.9473, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.2297, 0.625, 0, 1, 0.1501, 0.5921, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="21">
+                  <X F="Width*0">0</X>
+                  <Y F="Height*0.5">0.3125</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.0527, Height*0.7598, 0, 1, Width*0, Height*0.6326, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.0329, 0.4749, 0, 1, 0, 0.3953, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="22">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*0">0</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0, Height*0.2257, 0, 1, Width*0.2257, Height*0, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0, 0.1411, 0, 1, 0.1411, 0, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="23">
+                  <X F="Width*0.8536">0.5335</X>
+                  <Y F="Height*0.1464">0.0915</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.6326, Height*0, 0, 1, Width*0.7598, Height*0.0527, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.3953, 0, 0, 1, 0.4749, 0.0329, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="24">
+                  <X F="Width*1">0.625</X>
+                  <Y F="Height*0.5">0.3125</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.9473, Height*0.2402, 0, 1, Width*1, Height*0.3674, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.5921, 0.1501, 0, 1, 0.625, 0.2297, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="25">
+                  <X F="Width*0.8536">0.5335</X>
+                  <Y F="Height*0.8536">0.5335</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*1, Height*0.6326, 0, 1, Width*0.9473, Height*0.7598, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.625, 0.3953, 0, 1, 0.5921, 0.4749, 0, 1)</E>
+                </NURBSTo>
+                <NURBSTo IX="26">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*1">0.625</Y>
+                  <A>0</A>
+                  <B>1</B>
+                  <C>0</C>
+                  <D>1</D>
+                  <E F="NURBS(1, 3, 1, 1, Width*0.7598, Height*0.9473, 0, 1, Width*0.6326, Height*1, 0, 1)" Unit="NURBS">NURBS(1, 3, 1, 1, 0.4749, 0.5921, 0, 1, 0.3953, 0.625, 0, 1)</E>
+                </NURBSTo>
+                <LineTo IX="27">
+                  <X F="Width*0.5">0.3125</X>
+                  <Y F="Height*1">0.625</Y>
+                </LineTo>
+              </Geom>
+              <Fill>
+                <FillForegnd>#FFFFFF</FillForegnd>
+                <FillPattern>1</FillPattern>
+                <FillForegndTrans>0</FillForegndTrans>
+              </Fill>
+              <Line>
+                <LineWeight>0.0104</LineWeight>
+                <LineColor>#000000</LineColor>
+                <LineColorTrans>0</LineColorTrans>
+              </Line>
+              <Connection IX="0">
+                <X F="Width*0">0</X>
+                <Y F="Height*0.5">0.3125</Y>
+              </Connection>
+              <Connection IX="1">
+                <X F="Width*1">0.625</X>
+                <Y F="Height*0.5">0.3125</Y>
+              </Connection>
+              <Connection IX="2">
+                <X F="Width*0.5">0.3125</X>
+                <Y F="Height*1">0.625</Y>
+              </Connection>
+              <Connection IX="3">
+                <X F="Width*0.5">0.3125</X>
+                <Y F="Height*0">0</Y>
+              </Connection>
+            </Shape>
+            <Shape ID="9" Type="Shape" NameU="Text">
+              <XForm>
+                <PinX F="Sheet.7!Width*0.5">0.3125</PinX>
+                <PinY F="Sheet.7!Height*0.5">0.3125</PinY>
+                <Width>0.5417</Width>
+                <Height>0.5417</Height>
+                <LocPinX F="Width*0.5">0.2708</LocPinX>
+                <LocPinY F="Height*0.5">0.2708</LocPinY>
+                <Angle>0</Angle>
+                <FlipX>0</FlipX>
+                <FlipY>0</FlipY>
+                <ResizeMode>0</ResizeMode>
+              </XForm>
+              <TextBlock>
+                <VerticalAlign>1</VerticalAlign>
+              </TextBlock>
+              <Char IX="0">
+                <Font>4</Font>
+                <Color>#000000</Color>
+                <Style>0</Style>
+                <Case>0</Case>
+                <Pos>0</Pos>
+                <FontScale>1</FontScale>
+                <Size Unit="PT">0.1389</Size>
+                <DblUnderline>0</DblUnderline>
+                <Overline>0</Overline>
+                <Strikethru>0</Strikethru>
+                <Highlight>0</Highlight>
+                <DoubleStrikethrough>0</DoubleStrikethrough>
+                <RTLText>0</RTLText>
+                <UseVertical>0</UseVertical>
+                <Letterspace>0</Letterspace>
+                <ColorTrans>0</ColorTrans>
+                <AsianFont>0</AsianFont>
+                <ComplexScriptFont>0</ComplexScriptFont>
+                <LocalizeFont>0</LocalizeFont>
+                <ComplexScriptSize>-1</ComplexScriptSize>
+              </Char>
+              <Para IX="0">
+                <HorzAlign>1</HorzAlign>
+              </Para>
+              <Text><cp IX="0"/><pp IX="0"/>п</Text>
+            </Shape>
+          </Shapes>
+        </Shape>
+        <Shape ID="10" Type="Shape" NameU="Dynamic connector">
+          <XForm>
+            <PinX F="GUARD((BeginX+EndX)/2)">-1.0938</PinX>
+            <PinY F="GUARD((BeginY+EndY)/2)">6.745</PinY>
+            <Width F="GUARD(EndX-BeginX)">-0.3125</Width>
+            <Height F="GUARD(EndY-BeginY)">0.3125</Height>
+            <LocPinX F="Width*0.5">-0.1563</LocPinX>
+            <LocPinY F="Height*0.5">0.1563</LocPinY>
+            <Angle F="GUARD(0DA)">0</Angle>
+            <FlipX F="GUARD(FALSE)">0</FlipX>
+            <FlipY F="GUARD(FALSE)">0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <XForm1D>
+            <BeginX F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">-0.9375</BeginX>
+            <BeginY F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">6.9013</BeginY>
+            <EndX F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">-1.25</EndX>
+            <EndY F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">6.5888</EndY>
+          </XForm1D>
+          <LayerMem>
+            <LayerMember>1</LayerMember>
+          </LayerMem>
+          <Layout>
+            <ShapePermeableX>0</ShapePermeableX>
+            <ShapePermeableY>0</ShapePermeableY>
+            <ShapePermeablePlace>0</ShapePermeablePlace>
+            <ShapeFixedCode>0</ShapeFixedCode>
+            <ShapePlowCode>0</ShapePlowCode>
+            <ShapeRouteStyle>1</ShapeRouteStyle>
+            <ConFixedCode>0</ConFixedCode>
+            <ConLineJumpCode>0</ConLineJumpCode>
+            <ConLineJumpStyle>0</ConLineJumpStyle>
+            <ConLineJumpDirX>0</ConLineJumpDirX>
+            <ConLineJumpDirY>0</ConLineJumpDirY>
+            <ShapePlaceFlip>0</ShapePlaceFlip>
+            <ConLineRouteExt>0</ConLineRouteExt>
+            <ShapeSplit>0</ShapeSplit>
+            <ShapeSplittable>1</ShapeSplittable>
+          </Layout>
+          <Misc>
+            <NoObjHandles>0</NoObjHandles>
+            <NonPrinting>0</NonPrinting>
+            <NoCtlHandles>0</NoCtlHandles>
+            <NoAlignBox>1</NoAlignBox>
+            <UpdateAlignBox>0</UpdateAlignBox>
+            <HideText>0</HideText>
+            <DynFeedback>2</DynFeedback>
+            <GlueType>2</GlueType>
+            <WalkPreference>0</WalkPreference>
+            <BegTrigger>0</BegTrigger>
+            <EndTrigger>0</EndTrigger>
+            <ObjType>2</ObjType>
+            <IsDropSource>0</IsDropSource>
+            <NoLiveDynamics>0</NoLiveDynamics>
+            <LocalizeMerge>0</LocalizeMerge>
+          </Misc>
+          <Fill>
+            <FillForegnd>#000000</FillForegnd>
+            <FillPattern>1</FillPattern>
+            <FillForegndTrans>0</FillForegndTrans>
+          </Fill>
+          <Line>
+            <LineWeight>0.0104</LineWeight>
+            <LineColor>#000000</LineColor>
+            <LineColorTrans>0</LineColorTrans>
+          </Line>
+        </Shape>
+        <Shape ID="11" Type="Shape" NameU="Dynamic connector">
+          <XForm>
+            <PinX F="GUARD((BeginX+EndX)/2)">1.6667</PinX>
+            <PinY F="GUARD((BeginY+EndY)/2)">6.5888</PinY>
+            <Width F="GUARD(EndX-BeginX)">4.5833</Width>
+            <Height F="GUARD(EndY-BeginY)">0</Height>
+            <LocPinX F="Width*0.5">2.2917</LocPinX>
+            <LocPinY F="Height*0.5">0</LocPinY>
+            <Angle F="GUARD(0DA)">0</Angle>
+            <FlipX F="GUARD(FALSE)">0</FlipX>
+            <FlipY F="GUARD(FALSE)">0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <XForm1D>
+            <BeginX F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">-0.625</BeginX>
+            <BeginY F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">6.5888</BeginY>
+            <EndX F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">3.9583</EndX>
+            <EndY F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">6.5888</EndY>
+          </XForm1D>
+          <LayerMem>
+            <LayerMember>1</LayerMember>
+          </LayerMem>
+          <Layout>
+            <ShapePermeableX>0</ShapePermeableX>
+            <ShapePermeableY>0</ShapePermeableY>
+            <ShapePermeablePlace>0</ShapePermeablePlace>
+            <ShapeFixedCode>0</ShapeFixedCode>
+            <ShapePlowCode>0</ShapePlowCode>
+            <ShapeRouteStyle>1</ShapeRouteStyle>
+            <ConFixedCode>0</ConFixedCode>
+            <ConLineJumpCode>0</ConLineJumpCode>
+            <ConLineJumpStyle>0</ConLineJumpStyle>
+            <ConLineJumpDirX>0</ConLineJumpDirX>
+            <ConLineJumpDirY>0</ConLineJumpDirY>
+            <ShapePlaceFlip>0</ShapePlaceFlip>
+            <ConLineRouteExt>0</ConLineRouteExt>
+            <ShapeSplit>0</ShapeSplit>
+            <ShapeSplittable>1</ShapeSplittable>
+          </Layout>
+          <Misc>
+            <NoObjHandles>0</NoObjHandles>
+            <NonPrinting>0</NonPrinting>
+            <NoCtlHandles>0</NoCtlHandles>
+            <NoAlignBox>1</NoAlignBox>
+            <UpdateAlignBox>0</UpdateAlignBox>
+            <HideText>0</HideText>
+            <DynFeedback>2</DynFeedback>
+            <GlueType>2</GlueType>
+            <WalkPreference>0</WalkPreference>
+            <BegTrigger>0</BegTrigger>
+            <EndTrigger>0</EndTrigger>
+            <ObjType>2</ObjType>
+            <IsDropSource>0</IsDropSource>
+            <NoLiveDynamics>0</NoLiveDynamics>
+            <LocalizeMerge>0</LocalizeMerge>
+          </Misc>
+          <Fill>
+            <FillForegnd>#000000</FillForegnd>
+            <FillPattern>1</FillPattern>
+            <FillForegndTrans>0</FillForegndTrans>
+          </Fill>
+          <Line>
+            <LineWeight>0.0104</LineWeight>
+            <LineColor>#000000</LineColor>
+            <LineColorTrans>0</LineColorTrans>
+          </Line>
+        </Shape>
+        <Shape ID="12" Type="Shape" NameU="Dynamic connector">
+          <XForm>
+            <PinX F="GUARD((BeginX+EndX)/2)">1.6667</PinX>
+            <PinY F="GUARD((BeginY+EndY)/2)">6.5888</PinY>
+            <Width F="GUARD(EndX-BeginX)">-4.5833</Width>
+            <Height F="GUARD(EndY-BeginY)">0</Height>
+            <LocPinX F="Width*0.5">-2.2917</LocPinX>
+            <LocPinY F="Height*0.5">0</LocPinY>
+            <Angle F="GUARD(0DA)">0</Angle>
+            <FlipX F="GUARD(FALSE)">0</FlipX>
+            <FlipY F="GUARD(FALSE)">0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <XForm1D>
+            <BeginX F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">3.9583</BeginX>
+            <BeginY F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">6.5888</BeginY>
+            <EndX F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">-0.625</EndX>
+            <EndY F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">6.5888</EndY>
+          </XForm1D>
+          <LayerMem>
+            <LayerMember>1</LayerMember>
+          </LayerMem>
+          <Layout>
+            <ShapePermeableX>0</ShapePermeableX>
+            <ShapePermeableY>0</ShapePermeableY>
+            <ShapePermeablePlace>0</ShapePermeablePlace>
+            <ShapeFixedCode>0</ShapeFixedCode>
+            <ShapePlowCode>0</ShapePlowCode>
+            <ShapeRouteStyle>1</ShapeRouteStyle>
+            <ConFixedCode>0</ConFixedCode>
+            <ConLineJumpCode>0</ConLineJumpCode>
+            <ConLineJumpStyle>0</ConLineJumpStyle>
+            <ConLineJumpDirX>0</ConLineJumpDirX>
+            <ConLineJumpDirY>0</ConLineJumpDirY>
+            <ShapePlaceFlip>0</ShapePlaceFlip>
+            <ConLineRouteExt>0</ConLineRouteExt>
+            <ShapeSplit>0</ShapeSplit>
+            <ShapeSplittable>1</ShapeSplittable>
+          </Layout>
+          <Misc>
+            <NoObjHandles>0</NoObjHandles>
+            <NonPrinting>0</NonPrinting>
+            <NoCtlHandles>0</NoCtlHandles>
+            <NoAlignBox>1</NoAlignBox>
+            <UpdateAlignBox>0</UpdateAlignBox>
+            <HideText>0</HideText>
+            <DynFeedback>2</DynFeedback>
+            <GlueType>2</GlueType>
+            <WalkPreference>0</WalkPreference>
+            <BegTrigger>0</BegTrigger>
+            <EndTrigger>0</EndTrigger>
+            <ObjType>2</ObjType>
+            <IsDropSource>0</IsDropSource>
+            <NoLiveDynamics>0</NoLiveDynamics>
+            <LocalizeMerge>0</LocalizeMerge>
+          </Misc>
+          <Fill>
+            <FillForegnd>#000000</FillForegnd>
+            <FillPattern>1</FillPattern>
+            <FillForegndTrans>0</FillForegndTrans>
+          </Fill>
+          <Line>
+            <LineWeight>0.0104</LineWeight>
+            <LineColor>#000000</LineColor>
+            <LineColorTrans>0</LineColorTrans>
+          </Line>
+        </Shape>
+        <Shape ID="13" Type="Shape" NameU="Dynamic connector">
+          <XForm>
+            <PinX F="GUARD((BeginX+EndX)/2)">0.2604</PinX>
+            <PinY F="GUARD((BeginY+EndY)/2)">4.6096</PinY>
+            <Width F="GUARD(EndX-BeginX)">2.3958</Width>
+            <Height F="GUARD(EndY-BeginY)">3.3333</Height>
+            <LocPinX F="Width*0.5">1.1979</LocPinX>
+            <LocPinY F="Height*0.5">1.6667</LocPinY>
+            <Angle F="GUARD(0DA)">0</Angle>
+            <FlipX F="GUARD(FALSE)">0</FlipX>
+            <FlipY F="GUARD(FALSE)">0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <XForm1D>
+            <BeginX F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">-0.9375</BeginX>
+            <BeginY F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">6.2763</BeginY>
+            <EndX F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">1.4583</EndX>
+            <EndY F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">2.9429</EndY>
+          </XForm1D>
+          <LayerMem>
+            <LayerMember>1</LayerMember>
+          </LayerMem>
+          <Layout>
+            <ShapePermeableX>0</ShapePermeableX>
+            <ShapePermeableY>0</ShapePermeableY>
+            <ShapePermeablePlace>0</ShapePermeablePlace>
+            <ShapeFixedCode>0</ShapeFixedCode>
+            <ShapePlowCode>0</ShapePlowCode>
+            <ShapeRouteStyle>1</ShapeRouteStyle>
+            <ConFixedCode>0</ConFixedCode>
+            <ConLineJumpCode>0</ConLineJumpCode>
+            <ConLineJumpStyle>0</ConLineJumpStyle>
+            <ConLineJumpDirX>0</ConLineJumpDirX>
+            <ConLineJumpDirY>0</ConLineJumpDirY>
+            <ShapePlaceFlip>0</ShapePlaceFlip>
+            <ConLineRouteExt>0</ConLineRouteExt>
+            <ShapeSplit>0</ShapeSplit>
+            <ShapeSplittable>1</ShapeSplittable>
+          </Layout>
+          <Misc>
+            <NoObjHandles>0</NoObjHandles>
+            <NonPrinting>0</NonPrinting>
+            <NoCtlHandles>0</NoCtlHandles>
+            <NoAlignBox>1</NoAlignBox>
+            <UpdateAlignBox>0</UpdateAlignBox>
+            <HideText>0</HideText>
+            <DynFeedback>2</DynFeedback>
+            <GlueType>2</GlueType>
+            <WalkPreference>0</WalkPreference>
+            <BegTrigger>0</BegTrigger>
+            <EndTrigger>0</EndTrigger>
+            <ObjType>2</ObjType>
+            <IsDropSource>0</IsDropSource>
+            <NoLiveDynamics>0</NoLiveDynamics>
+            <LocalizeMerge>0</LocalizeMerge>
+          </Misc>
+          <Fill>
+            <FillForegnd>#000000</FillForegnd>
+            <FillPattern>1</FillPattern>
+            <FillForegndTrans>0</FillForegndTrans>
+          </Fill>
+          <Line>
+            <LineWeight>0.0104</LineWeight>
+            <LineColor>#000000</LineColor>
+            <LineColorTrans>0</LineColorTrans>
+          </Line>
+        </Shape>
+        <Shape ID="14" Type="Shape" NameU="Dynamic connector">
+          <XForm>
+            <PinX F="GUARD((BeginX+EndX)/2)">0.2604</PinX>
+            <PinY F="GUARD((BeginY+EndY)/2)">4.6096</PinY>
+            <Width F="GUARD(EndX-BeginX)">-2.3958</Width>
+            <Height F="GUARD(EndY-BeginY)">-3.3333</Height>
+            <LocPinX F="Width*0.5">-1.1979</LocPinX>
+            <LocPinY F="Height*0.5">-1.6667</LocPinY>
+            <Angle F="GUARD(0DA)">0</Angle>
+            <FlipX F="GUARD(FALSE)">0</FlipX>
+            <FlipY F="GUARD(FALSE)">0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <XForm1D>
+            <BeginX F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">1.4583</BeginX>
+            <BeginY F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">2.9429</BeginY>
+            <EndX F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">-0.9375</EndX>
+            <EndY F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">6.2763</EndY>
+          </XForm1D>
+          <LayerMem>
+            <LayerMember>1</LayerMember>
+          </LayerMem>
+          <Layout>
+            <ShapePermeableX>0</ShapePermeableX>
+            <ShapePermeableY>0</ShapePermeableY>
+            <ShapePermeablePlace>0</ShapePermeablePlace>
+            <ShapeFixedCode>0</ShapeFixedCode>
+            <ShapePlowCode>0</ShapePlowCode>
+            <ShapeRouteStyle>1</ShapeRouteStyle>
+            <ConFixedCode>0</ConFixedCode>
+            <ConLineJumpCode>0</ConLineJumpCode>
+            <ConLineJumpStyle>0</ConLineJumpStyle>
+            <ConLineJumpDirX>0</ConLineJumpDirX>
+            <ConLineJumpDirY>0</ConLineJumpDirY>
+            <ShapePlaceFlip>0</ShapePlaceFlip>
+            <ConLineRouteExt>0</ConLineRouteExt>
+            <ShapeSplit>0</ShapeSplit>
+            <ShapeSplittable>1</ShapeSplittable>
+          </Layout>
+          <Misc>
+            <NoObjHandles>0</NoObjHandles>
+            <NonPrinting>0</NonPrinting>
+            <NoCtlHandles>0</NoCtlHandles>
+            <NoAlignBox>1</NoAlignBox>
+            <UpdateAlignBox>0</UpdateAlignBox>
+            <HideText>0</HideText>
+            <DynFeedback>2</DynFeedback>
+            <GlueType>2</GlueType>
+            <WalkPreference>0</WalkPreference>
+            <BegTrigger>0</BegTrigger>
+            <EndTrigger>0</EndTrigger>
+            <ObjType>2</ObjType>
+            <IsDropSource>0</IsDropSource>
+            <NoLiveDynamics>0</NoLiveDynamics>
+            <LocalizeMerge>0</LocalizeMerge>
+          </Misc>
+          <Fill>
+            <FillForegnd>#000000</FillForegnd>
+            <FillPattern>1</FillPattern>
+            <FillForegndTrans>0</FillForegndTrans>
+          </Fill>
+          <Line>
+            <LineWeight>0.0104</LineWeight>
+            <LineColor>#000000</LineColor>
+            <LineColorTrans>0</LineColorTrans>
+          </Line>
+        </Shape>
+        <Shape ID="15" Type="Shape" NameU="Dynamic connector">
+          <XForm>
+            <PinX F="GUARD((BeginX+EndX)/2)">4.4271</PinX>
+            <PinY F="GUARD((BeginY+EndY)/2)">6.745</PinY>
+            <Width F="GUARD(EndX-BeginX)">0.3125</Width>
+            <Height F="GUARD(EndY-BeginY)">0.3125</Height>
+            <LocPinX F="Width*0.5">0.1563</LocPinX>
+            <LocPinY F="Height*0.5">0.1563</LocPinY>
+            <Angle F="GUARD(0DA)">0</Angle>
+            <FlipX F="GUARD(FALSE)">0</FlipX>
+            <FlipY F="GUARD(FALSE)">0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <XForm1D>
+            <BeginX F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">4.2708</BeginX>
+            <BeginY F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">6.9013</BeginY>
+            <EndX F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">4.5833</EndX>
+            <EndY F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">6.5888</EndY>
+          </XForm1D>
+          <LayerMem>
+            <LayerMember>1</LayerMember>
+          </LayerMem>
+          <Layout>
+            <ShapePermeableX>0</ShapePermeableX>
+            <ShapePermeableY>0</ShapePermeableY>
+            <ShapePermeablePlace>0</ShapePermeablePlace>
+            <ShapeFixedCode>0</ShapeFixedCode>
+            <ShapePlowCode>0</ShapePlowCode>
+            <ShapeRouteStyle>1</ShapeRouteStyle>
+            <ConFixedCode>0</ConFixedCode>
+            <ConLineJumpCode>0</ConLineJumpCode>
+            <ConLineJumpStyle>0</ConLineJumpStyle>
+            <ConLineJumpDirX>0</ConLineJumpDirX>
+            <ConLineJumpDirY>0</ConLineJumpDirY>
+            <ShapePlaceFlip>0</ShapePlaceFlip>
+            <ConLineRouteExt>0</ConLineRouteExt>
+            <ShapeSplit>0</ShapeSplit>
+            <ShapeSplittable>1</ShapeSplittable>
+          </Layout>
+          <Misc>
+            <NoObjHandles>0</NoObjHandles>
+            <NonPrinting>0</NonPrinting>
+            <NoCtlHandles>0</NoCtlHandles>
+            <NoAlignBox>1</NoAlignBox>
+            <UpdateAlignBox>0</UpdateAlignBox>
+            <HideText>0</HideText>
+            <DynFeedback>2</DynFeedback>
+            <GlueType>2</GlueType>
+            <WalkPreference>0</WalkPreference>
+            <BegTrigger>0</BegTrigger>
+            <EndTrigger>0</EndTrigger>
+            <ObjType>2</ObjType>
+            <IsDropSource>0</IsDropSource>
+            <NoLiveDynamics>0</NoLiveDynamics>
+            <LocalizeMerge>0</LocalizeMerge>
+          </Misc>
+          <Fill>
+            <FillForegnd>#000000</FillForegnd>
+            <FillPattern>1</FillPattern>
+            <FillForegndTrans>0</FillForegndTrans>
+          </Fill>
+          <Line>
+            <LineWeight>0.0104</LineWeight>
+            <LineColor>#000000</LineColor>
+            <LineColorTrans>0</LineColorTrans>
+          </Line>
+        </Shape>
+        <Shape ID="16" Type="Shape" NameU="Dynamic connector">
+          <XForm>
+            <PinX F="GUARD((BeginX+EndX)/2)">3.1771</PinX>
+            <PinY F="GUARD((BeginY+EndY)/2)">4.6096</PinY>
+            <Width F="GUARD(EndX-BeginX)">2.1875</Width>
+            <Height F="GUARD(EndY-BeginY)">-3.3333</Height>
+            <LocPinX F="Width*0.5">1.0938</LocPinX>
+            <LocPinY F="Height*0.5">-1.6667</LocPinY>
+            <Angle F="GUARD(0DA)">0</Angle>
+            <FlipX F="GUARD(FALSE)">0</FlipX>
+            <FlipY F="GUARD(FALSE)">0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <XForm1D>
+            <BeginX F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">2.0833</BeginX>
+            <BeginY F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">2.9429</BeginY>
+            <EndX F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">4.2708</EndX>
+            <EndY F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">6.2763</EndY>
+          </XForm1D>
+          <LayerMem>
+            <LayerMember>1</LayerMember>
+          </LayerMem>
+          <Layout>
+            <ShapePermeableX>0</ShapePermeableX>
+            <ShapePermeableY>0</ShapePermeableY>
+            <ShapePermeablePlace>0</ShapePermeablePlace>
+            <ShapeFixedCode>0</ShapeFixedCode>
+            <ShapePlowCode>0</ShapePlowCode>
+            <ShapeRouteStyle>1</ShapeRouteStyle>
+            <ConFixedCode>0</ConFixedCode>
+            <ConLineJumpCode>0</ConLineJumpCode>
+            <ConLineJumpStyle>0</ConLineJumpStyle>
+            <ConLineJumpDirX>0</ConLineJumpDirX>
+            <ConLineJumpDirY>0</ConLineJumpDirY>
+            <ShapePlaceFlip>0</ShapePlaceFlip>
+            <ConLineRouteExt>0</ConLineRouteExt>
+            <ShapeSplit>0</ShapeSplit>
+            <ShapeSplittable>1</ShapeSplittable>
+          </Layout>
+          <Misc>
+            <NoObjHandles>0</NoObjHandles>
+            <NonPrinting>0</NonPrinting>
+            <NoCtlHandles>0</NoCtlHandles>
+            <NoAlignBox>1</NoAlignBox>
+            <UpdateAlignBox>0</UpdateAlignBox>
+            <HideText>0</HideText>
+            <DynFeedback>2</DynFeedback>
+            <GlueType>2</GlueType>
+            <WalkPreference>0</WalkPreference>
+            <BegTrigger>0</BegTrigger>
+            <EndTrigger>0</EndTrigger>
+            <ObjType>2</ObjType>
+            <IsDropSource>0</IsDropSource>
+            <NoLiveDynamics>0</NoLiveDynamics>
+            <LocalizeMerge>0</LocalizeMerge>
+          </Misc>
+          <Fill>
+            <FillForegnd>#000000</FillForegnd>
+            <FillPattern>1</FillPattern>
+            <FillForegndTrans>0</FillForegndTrans>
+          </Fill>
+          <Line>
+            <LineWeight>0.0104</LineWeight>
+            <LineColor>#000000</LineColor>
+            <LineColorTrans>0</LineColorTrans>
+          </Line>
+        </Shape>
+        <Shape ID="17" Type="Shape" NameU="Dynamic connector">
+          <XForm>
+            <PinX F="GUARD((BeginX+EndX)/2)">3.1771</PinX>
+            <PinY F="GUARD((BeginY+EndY)/2)">4.6096</PinY>
+            <Width F="GUARD(EndX-BeginX)">-2.1875</Width>
+            <Height F="GUARD(EndY-BeginY)">3.3333</Height>
+            <LocPinX F="Width*0.5">-1.0938</LocPinX>
+            <LocPinY F="Height*0.5">1.6667</LocPinY>
+            <Angle F="GUARD(0DA)">0</Angle>
+            <FlipX F="GUARD(FALSE)">0</FlipX>
+            <FlipY F="GUARD(FALSE)">0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <XForm1D>
+            <BeginX F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">4.2708</BeginX>
+            <BeginY F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">6.2763</BeginY>
+            <EndX F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">2.0833</EndX>
+            <EndY F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">2.9429</EndY>
+          </XForm1D>
+          <LayerMem>
+            <LayerMember>1</LayerMember>
+          </LayerMem>
+          <Layout>
+            <ShapePermeableX>0</ShapePermeableX>
+            <ShapePermeableY>0</ShapePermeableY>
+            <ShapePermeablePlace>0</ShapePermeablePlace>
+            <ShapeFixedCode>0</ShapeFixedCode>
+            <ShapePlowCode>0</ShapePlowCode>
+            <ShapeRouteStyle>1</ShapeRouteStyle>
+            <ConFixedCode>0</ConFixedCode>
+            <ConLineJumpCode>0</ConLineJumpCode>
+            <ConLineJumpStyle>0</ConLineJumpStyle>
+            <ConLineJumpDirX>0</ConLineJumpDirX>
+            <ConLineJumpDirY>0</ConLineJumpDirY>
+            <ShapePlaceFlip>0</ShapePlaceFlip>
+            <ConLineRouteExt>0</ConLineRouteExt>
+            <ShapeSplit>0</ShapeSplit>
+            <ShapeSplittable>1</ShapeSplittable>
+          </Layout>
+          <Misc>
+            <NoObjHandles>0</NoObjHandles>
+            <NonPrinting>0</NonPrinting>
+            <NoCtlHandles>0</NoCtlHandles>
+            <NoAlignBox>1</NoAlignBox>
+            <UpdateAlignBox>0</UpdateAlignBox>
+            <HideText>0</HideText>
+            <DynFeedback>2</DynFeedback>
+            <GlueType>2</GlueType>
+            <WalkPreference>0</WalkPreference>
+            <BegTrigger>0</BegTrigger>
+            <EndTrigger>0</EndTrigger>
+            <ObjType>2</ObjType>
+            <IsDropSource>0</IsDropSource>
+            <NoLiveDynamics>0</NoLiveDynamics>
+            <LocalizeMerge>0</LocalizeMerge>
+          </Misc>
+          <Fill>
+            <FillForegnd>#000000</FillForegnd>
+            <FillPattern>1</FillPattern>
+            <FillForegndTrans>0</FillForegndTrans>
+          </Fill>
+          <Line>
+            <LineWeight>0.0104</LineWeight>
+            <LineColor>#000000</LineColor>
+            <LineColorTrans>0</LineColorTrans>
+          </Line>
+        </Shape>
+        <Shape ID="18" Type="Shape" NameU="Dynamic connector">
+          <XForm>
+            <PinX F="GUARD((BeginX+EndX)/2)">1.6146</PinX>
+            <PinY F="GUARD((BeginY+EndY)/2)">2.7867</PinY>
+            <Width F="GUARD(EndX-BeginX)">0.3125</Width>
+            <Height F="GUARD(EndY-BeginY)">0.3125</Height>
+            <LocPinX F="Width*0.5">0.1563</LocPinX>
+            <LocPinY F="Height*0.5">0.1563</LocPinY>
+            <Angle F="GUARD(0DA)">0</Angle>
+            <FlipX F="GUARD(FALSE)">0</FlipX>
+            <FlipY F="GUARD(FALSE)">0</FlipY>
+            <ResizeMode>0</ResizeMode>
+          </XForm>
+          <XForm1D>
+            <BeginX F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">1.4583</BeginX>
+            <BeginY F="_WALKGLUE(BegTrigger,EndTrigger,WalkPreference)">2.9429</BeginY>
+            <EndX F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">1.7708</EndX>
+            <EndY F="_WALKGLUE(EndTrigger,BegTrigger,WalkPreference)">2.6304</EndY>
+          </XForm1D>
+          <LayerMem>
+            <LayerMember>1</LayerMember>
+          </LayerMem>
+          <Layout>
+            <ShapePermeableX>0</ShapePermeableX>
+            <ShapePermeableY>0</ShapePermeableY>
+            <ShapePermeablePlace>0</ShapePermeablePlace>
+            <ShapeFixedCode>0</ShapeFixedCode>
+            <ShapePlowCode>0</ShapePlowCode>
+            <ShapeRouteStyle>1</ShapeRouteStyle>
+            <ConFixedCode>0</ConFixedCode>
+            <ConLineJumpCode>0</ConLineJumpCode>
+            <ConLineJumpStyle>0</ConLineJumpStyle>
+            <ConLineJumpDirX>0</ConLineJumpDirX>
+            <ConLineJumpDirY>0</ConLineJumpDirY>
+            <ShapePlaceFlip>0</ShapePlaceFlip>
+            <ConLineRouteExt>0</ConLineRouteExt>
+            <ShapeSplit>0</ShapeSplit>
+            <ShapeSplittable>1</ShapeSplittable>
+          </Layout>
+          <Misc>
+            <NoObjHandles>0</NoObjHandles>
+            <NonPrinting>0</NonPrinting>
+            <NoCtlHandles>0</NoCtlHandles>
+            <NoAlignBox>1</NoAlignBox>
+            <UpdateAlignBox>0</UpdateAlignBox>
+            <HideText>0</HideText>
+            <DynFeedback>2</DynFeedback>
+            <GlueType>2</GlueType>
+            <WalkPreference>0</WalkPreference>
+            <BegTrigger>0</BegTrigger>
+            <EndTrigger>0</EndTrigger>
+            <ObjType>2</ObjType>
+            <IsDropSource>0</IsDropSource>
+            <NoLiveDynamics>0</NoLiveDynamics>
+            <LocalizeMerge>0</LocalizeMerge>
+          </Misc>
+          <Fill>
+            <FillForegnd>#000000</FillForegnd>
+            <FillPattern>1</FillPattern>
+            <FillForegndTrans>0</FillForegndTrans>
+          </Fill>
+          <Line>
+            <LineWeight>0.0104</LineWeight>
+            <LineColor>#000000</LineColor>
+            <LineColorTrans>0</LineColorTrans>
+          </Line>
+        </Shape>
+      </Shapes>
+      <Connects>
+        <Connect FromCell="BeginX" FromPart="9" FromSheet="10" ToPart="3" ToCell="PinX" ToSheet="1" />
+        <Connect FromCell="EndX" FromPart="12" FromSheet="10" ToPart="3" ToCell="PinX" ToSheet="1" />
+        <Connect FromCell="BeginX" FromPart="9" FromSheet="11" ToPart="3" ToCell="PinX" ToSheet="1" />
+        <Connect FromCell="EndX" FromPart="12" FromSheet="12" ToPart="3" ToCell="PinX" ToSheet="1" />
+        <Connect FromCell="BeginX" FromPart="9" FromSheet="13" ToPart="3" ToCell="PinX" ToSheet="1" />
+        <Connect FromCell="EndX" FromPart="12" FromSheet="14" ToPart="3" ToCell="PinX" ToSheet="1" />
+        <Connect FromCell="EndX" FromPart="12" FromSheet="13" ToPart="3" ToCell="PinX" ToSheet="4" />
+        <Connect FromCell="BeginX" FromPart="9" FromSheet="14" ToPart="3" ToCell="PinX" ToSheet="4" />
+        <Connect FromCell="EndX" FromPart="12" FromSheet="17" ToPart="3" ToCell="PinX" ToSheet="4" />
+        <Connect FromCell="BeginX" FromPart="9" FromSheet="16" ToPart="3" ToCell="PinX" ToSheet="4" />
+        <Connect FromCell="BeginX" FromPart="9" FromSheet="18" ToPart="3" ToCell="PinX" ToSheet="4" />
+        <Connect FromCell="EndX" FromPart="12" FromSheet="18" ToPart="3" ToCell="PinX" ToSheet="4" />
+        <Connect FromCell="EndX" FromPart="12" FromSheet="11" ToPart="3" ToCell="PinX" ToSheet="7" />
+        <Connect FromCell="BeginX" FromPart="9" FromSheet="12" ToPart="3" ToCell="PinX" ToSheet="7" />
+        <Connect FromCell="BeginX" FromPart="9" FromSheet="15" ToPart="3" ToCell="PinX" ToSheet="7" />
+        <Connect FromCell="EndX" FromPart="12" FromSheet="15" ToPart="3" ToCell="PinX" ToSheet="7" />
+        <Connect FromCell="EndX" FromPart="12" FromSheet="16" ToPart="3" ToCell="PinX" ToSheet="7" />
+        <Connect FromCell="BeginX" FromPart="9" FromSheet="17" ToPart="3" ToCell="PinX" ToSheet="7" />
+      </Connects>
+    </Page>
+  </Pages>
+</VisioDocument>
